@@ -1,6 +1,6 @@
 **Neural Networks and Fuzzy Logic project**
 
-**Predicting Thyroid Cancer Risk Using Artificial Neural Networks**
+**Predicting Thyroid Cancer Risk Using Artificial Neural Networks**<br>
 Thyroid cancer is a common and increasingly diagnosed endocrine disorder. Early and accurate prediction of its risk is critical for improving patient outcomes and reducing the burden on healthcare systems. In this project, we leverage the power of Artificial Neural Networks (ANN) to predict the likelihood of thyroid cancer based on various patient features such as age, gender, TSH levels, and family history.
 The dataset is preprocessed with appropriate encoding and normalization techniques. Exploratory Data Analysis (EDA) is performed using correlation matrices and statistical summaries to understand feature importance. The ANN model is built using TensorFlow and optimized using techniques such as Dropout regularization and various optimizers like Adadelta to enhance performance and prevent overfitting.
 
