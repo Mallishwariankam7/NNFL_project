@@ -13,7 +13,9 @@ Nodule Size: feature for risk stratification and cancer diagnosis.
 These features can help train classification models to assess risk levels.
 
 Key techniques used in the project include:
-•	Feature-based model design with multiple dense layers
-•	Dropout regularization to prevent overfitting
-•	Learning rate tuning for performance optimization
-•	Use of early stopping and validation strategies
+- Feature-based model design with multiple dense layers  
+- Dropout regularization to prevent overfitting  
+- Learning rate tuning for performance optimization  
+- Use of early stopping and validation strategies
+
+
